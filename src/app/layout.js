@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
   title: 'Optidrive',
-  description: 'Your Secure Local Image and Media Storage Solution',
+  description: 'Your Secure Local Image and Media Storage Solution for Nerds',
 }
 
 export default function RootLayout({ children }) {
