@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file:///media/dark/Baby_Shark/Anufied/WebstormProjects/Optidrive/optidrive/src/components/ui/Modal.css"],"sourcesContent":["/* optidrive/src/components/ui/Modal.css */\n.modal-overlay {\n  position: fixed;\n  top: 0;\n  left: 0;\n  width: 100%;\n  height: 100%;\n  background: rgba(0, 0, 0, 0.5);\n  display: flex;\n  justify-content: center;\n  align-items: center;\n}\n\n.modal-content {\n  background: var(--background);\n  color: var(--foreground);\n  padding: 2rem;\n  border-radius: 0.5rem;\n  text-align: center;\n}\n\n.modal-close-button {\n  margin-top: 1rem;\n  padding: 0.5rem 1rem;\n  background-color: var(--primary);\n  color: var(--foreground);\n  border: none;\n  border-radius: 0.25rem;\n  cursor: pointer;\n  transition: background-color 0.2s;\n}\n\n.modal-close-button:hover {\n  background-color: var(--primary-hover);\n}"],"names":[],"mappings":"AACA,8IAYA,uHAQA,+LAWA"}},
+    {"offset": {"line": 1, "column": 516}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

@@ -1,0 +1,66 @@
+/* [project]/src/app/layout.css [app-client] (css) */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
+
+.layout-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.layout-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 0;
+  background-color: #007bff;
+  color: #fff;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.layout-header h1 {
+  margin: 0;
+  font-size: 2em;
+}
+
+.layout-header nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 20px;
+}
+
+.layout-header nav ul li {
+  margin: 0;
+}
+
+.layout-header nav ul li a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 1em;
+}
+
+.layout-header nav ul li a:hover {
+  text-decoration: underline;
+}
+
+.layout-main {
+  margin-bottom: 40px;
+}
+
+.layout-footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #007bff;
+  color: #fff;
+  border-radius: 10px;
+}
+
+
+/*# sourceMappingURL=src_app_layout_b717d1.css.map*/

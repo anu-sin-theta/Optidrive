@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>File Explorer</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="optidrive-container">
+    <div class="sidebar">
+      <div class="sidebar-group-label">Navigation</div>
+      <ul class="sidebar-menu" id="sidebar-menu">
+        <!-- Sidebar menu items will be dynamically generated here -->
+      </ul>
+    </div>
+    <div class="main-content">
+      <h1>File Explorer</h1>
+      <div class="action-grid">
+        <button class="action-button" id="create-folder-btn">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 2h10v10H2z"/><path d="M14 2h10v10H14z"/><path d="M2 14h10v10H2z"/><path d="M14 14h10v10H14z"/></svg>
+          Create Folder
+        </button>
+        <button class="action-button" id="upload-file-btn">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></svg>
+          Upload File
+        </button>
+      </div>
+      <div class="drop-zone" id="drop-zone">
+        <p>Drag and drop files here or click to upload</p>
+        <input type="file" id="file-input" style="display: none;">
+        <label for="file-input" class="file-input-label">Select File</label>
+      </div>
+      <div id="file-list">
+        <!-- File list will be dynamically generated here -->
+      </div>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>

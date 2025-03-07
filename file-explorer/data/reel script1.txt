@@ -1,0 +1,109 @@
+Scene 1: Ek Modern Office ka Conference Room
+
+Background mein soft instrumental music chal raha hai. Screen par "Tech World ka Naya Twist" title flash hota hai.
+
+Narrator (Voiceover): "Doston, kya aapne mehsoos kiya hai ki duniya ek naye technical shift se guzar rahi hai, jaise humne 2000 mein experience kiya tha? Aaj hum baat karenge AI aur wrappers ke baare mein, aur kyun yeh banana itna aasan nahi hai."
+
+Scene 2: Ek Developer Apne Computer ke Saamne
+
+Developer code likh raha hai, screen par complex algorithms dikhai dete hain.
+
+Narrator (Voiceover): "Aksar log sochte hain ki AI models bas data se seekhte hain aur kaam khatam. Lekin asal kahani kuch aur hai. AI models ko specific problems solve karne ke liye customize karna padta hai, aur yeh kaam wrappers ke through hota hai."
+
+Scene 3: Developer Apne Colleague se Baat Karte Hue
+
+Colleague:
+
+Colleague: "Yaar, tumne suna? Vercel bas AWS ka wrapper hai. Unhone naya kya kiya?"
+
+Developer muskurata hai.
+
+Developer: "Aisa nahi hai. Vercel ne deployment ko simplify karke developers ka kaam asaan banaya hai. Unhone AWS ki complexity ko handle karke humein ek simple interface diya hai."
+
+Narrator (Voiceover): "Bilkul sahi. Isi tarah, jo log AI models aur APIs ka use karke solutions banate hain, wo asli problems ko simplify karte hain. Unki mehnat ko nazarandaz nahi kiya ja sakta."
+
+Scene 4: Ek Student Online Tutorial Dekhte Hue
+
+Student 12 ghante ka tutorial dekh raha hai, notes bana raha hai.
+
+Narrator (Voiceover): "Ab sochiye, agar koi 12 ghante ka tutorial dekh kar ek app banata hai, toh kya yeh cheating hai? Nahi. Yeh uski dedication aur learning ka nateeja hai."
+
+Scene 5: Ek Purani Nokia Phone ki Image Screen par Aati Hai
+
+Narrator (Voiceover): "Is tezi se badalte tech world mein, humein bhi naye changes ko adopt karna hoga. Kahin aisa na ho ki hum 2025 ke Nokia ban jaayein."
+
+Scene 6: Developer Apne Project ko Successfully Deploy Karte Hue
+
+Developer khush hai, screen par "Deployment Successful" message aata hai.
+
+Narrator (Voiceover): "Toh doston, aayiye is naye technical shift ka hissa banein, naye tools aur techniques ko samjhein, aur milkar innovation ki taraf badein."
+
+Screen par "Tech World ka Naya Twist: AI Wrappers ki Kahani" title dobara flash hota hai.
+
+Narrator (Voiceover): "Yeh safar asaan nahi, lekin humari mehnat aur dedication se hum is naye daur ka hissa ban sakte hain."
+
+Background music fade out hota hai, screen black hoti hai.
+
+End Credits: "Script by [Your Name]"
+
+Screen par "Thank You for Watching" message aata hai.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**Host's Part:**  
+
+*(Stage pe ek energetic host enter karta hai, audience ki taraf dekh kar muskurata hai.)*  
+
+**Host:**  
+*"Doston, aaj hum ek aise shift ki baat karne wale hain jo duniya ko phir se badalne wala hai! Jaise 2000 ke aas paas technology ek naye daur mein chali gayi thi, waise hi aaj hum AI aur wrappers ke naye zamane mein jee rahe hain!"*  
+
+*(Pause, dramatic effect ke liye audience ki taraf dekhte hain.)*  
+
+*"Lekin ek sawaal yeh uthta hai—kya AI sab kuch apne aap karta hai? Kya bas ek model bana diya aur kaam ho gaya? Nahi doston! AI models sirf ek bada information pool hote hain. Jo asal kaam hai, jo asli soch hai, wo hoti hai wrappers banane mein!"*  
+
+*(Ek chhoti si laugh, jaise ek example dene wale ho.)*  
+
+*"Ab dekho, Vercel bhi toh AWS ka wrapper hai. Par iska matlab yeh toh nahi ki ‘arrey bhai, Vercel team ne kiya kya? Bas AWS utha ke laga diya.’ Nahi! Vercel ne ek badi problem solve ki hai—AWS ki complexity hata ke ek simple solution diya hai!"*  
+
+*(Thoda rukte hain, audience ki taraf dekhte hain.)*  
+
+*"Aur isi tarah, jo log AI models aur APIs ka use karke naye solutions banate hain, unka kaam criticize nahi karna chahiye. Kyunki sochna, problem ko samajhna, aur uska solution nikalna—itna asaan nahi hai!"*  
+
+*(Thoda pace slow karte hain, suspense build karte hain.)*  
+
+*"Ab socho, agar koi 12 ghante ka tutorial dekhe aur ek app bana de, toh kya yeh cheating hai? Matlab spoon-feeding kaafi hai? Kya bas copy-paste hi kaafi hai? Nahi doston, seekhna aur implement karna do alag cheezein hain!"*  
+
+*(Ek dramatic pause, phir thoda strong tone mein.)*  
+
+*"Tech duniya tezi se badal rahi hai. Agar hum naye changes ko accept nahi karenge, naye tools aur naye concepts nahi seekhenge, toh hum 2025 ke Nokia ban jayenge!"*  
+
+*(Thoda casual smile, aur confidence ke saath last statement.)*  
+
+*"Toh chalo, naye zamane ka hissa bano, naye solutions socho, aur duniya ke technical shift ka ek important part bano!"*  
+
+*(Host apne haath se ek powerful gesture deta hai, lights dim hoti hain, aur background music fade-out hota hai.)*  
+
+**(End Scene)**  

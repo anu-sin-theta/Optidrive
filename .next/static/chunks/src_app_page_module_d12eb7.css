@@ -1,0 +1,95 @@
+/* [project]/src/app/page.module.css [app-client] (css) */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
+
+.page-module___8aEwW__optidrive-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.page-module___8aEwW__optidrive-header {
+  text-align: center;
+  padding: 50px 0;
+  background-color: #007bff;
+  color: #fff;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.page-module___8aEwW__optidrive-header h1 {
+  margin: 0;
+  font-size: 2.5em;
+}
+
+.page-module___8aEwW__optidrive-header p {
+  font-size: 1.2em;
+}
+
+.page-module___8aEwW__optidrive-features {
+  margin-bottom: 40px;
+}
+
+.page-module___8aEwW__feature-list {
+  display: flex;
+  justify-content: space-around;
+}
+
+.page-module___8aEwW__feature-item {
+  text-align: center;
+  width: 30%;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #0000001a;
+}
+
+.page-module___8aEwW__optidrive-upload {
+  margin-bottom: 40px;
+}
+
+.page-module___8aEwW__upload-box {
+  border: 2px dashed #007bff;
+  padding: 50px;
+  text-align: center;
+  border-radius: 10px;
+  background-color: #fff;
+}
+
+.page-module___8aEwW__upload-box p {
+  margin: 0;
+  font-size: 1.1em;
+}
+
+.page-module___8aEwW__optidrive-gallery {
+  margin-bottom: 40px;
+}
+
+.page-module___8aEwW__gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 20px;
+}
+
+.page-module___8aEwW__gallery-item {
+  background-color: #fff;
+  padding: 20px;
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #0000001a;
+}
+
+.page-module___8aEwW__optidrive-footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #007bff;
+  color: #fff;
+  border-radius: 10px;
+}
+
+
+/*# sourceMappingURL=src_app_page_module_d12eb7.css.map*/

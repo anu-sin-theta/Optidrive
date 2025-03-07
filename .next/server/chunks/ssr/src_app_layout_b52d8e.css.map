@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack://[project]/src/app/layout.css"],"sourcesContent":["body {\n  font-family: Arial, sans-serif;\n  margin: 0;\n  padding: 0;\n  background-color: #f4f4f4;\n}\n\n.layout-container {\n  max-width: 1200px;\n  margin: 0 auto;\n  padding: 20px;\n}\n\n.layout-header {\n  display: flex;\n  justify-content: space-between;\n  align-items: center;\n  padding: 20px 0;\n  background-color: #007bff;\n  color: white;\n  border-radius: 10px;\n  margin-bottom: 20px;\n}\n\n.layout-header h1 {\n  margin: 0;\n  font-size: 2em;\n}\n\n.layout-header nav ul {\n  list-style: none;\n  margin: 0;\n  padding: 0;\n  display: flex;\n  gap: 20px;\n}\n\n.layout-header nav ul li {\n  margin: 0;\n}\n\n.layout-header nav ul li a {\n  color: white;\n  text-decoration: none;\n  font-size: 1em;\n}\n\n.layout-header nav ul li a:hover {\n  text-decoration: underline;\n}\n\n.layout-main {\n  margin-bottom: 40px;\n}\n\n.layout-footer {\n  text-align: center;\n  padding: 20px;\n  background-color: #007bff;\n  color: white;\n  border-radius: 10px;\n}"],"names":[],"mappings":"AAAA;;;;;;;AAOA;;;;;;AAMA;;;;;;;;;;;AAWA;;;;;AAKA;;;;;;;;AAQA;;;;AAIA;;;;;;AAMA;;;;AAIA;;;;AAIA"}},
+    {"offset": {"line": 63, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

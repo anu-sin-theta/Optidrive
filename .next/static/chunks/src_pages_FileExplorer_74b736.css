@@ -1,0 +1,84 @@
+/* [project]/src/pages/FileExplorer.css [client] (css) */
+.file-explorer {
+  padding: 20px;
+  background-color: #f4f4f4;
+  border-radius: 8px;
+}
+
+.file-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.file-card {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 10px;
+  width: 200px;
+  text-align: center;
+  position: relative;
+}
+
+.file-card .file-icon {
+  cursor: pointer;
+}
+
+.file-card .file-name {
+  margin-top: 10px;
+  font-size: 14px;
+}
+
+.file-card .file-menu-icon {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+.file-card .file-menu {
+  position: absolute;
+  top: 30px;
+  right: 10px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px #0000001a;
+  display: none;
+  flex-direction: column;
+  z-index: 10;
+}
+
+.file-card:hover .file-menu, .file-card .file-menu-icon:focus + .file-menu {
+  display: block;
+}
+
+.file-card .file-menu button {
+  background-color: #ff4d4d;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin: 2px;
+}
+
+.file-card .file-menu button:hover {
+  background-color: #ff1a1a;
+}
+
+.thumbnail {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+.icon {
+  width: 48px;
+  height: 48px;
+}
+
+
+/*# sourceMappingURL=src_pages_FileExplorer_74b736.css.map*/

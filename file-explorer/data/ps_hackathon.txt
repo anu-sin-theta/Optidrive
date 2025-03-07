@@ -1,0 +1,27 @@
+IoT / data science:
+1. Persistent Inequities in Access to Clean Drinking Water
+Despite the Jal Jeevan Mission’s ambitious targets, 22% of rural households and 15% of urban settlements remain without piped water connections. Contamination from industrial effluents and inadequate treatment infrastructure exacerbates waterborne diseases, particularly in states like Bihar and Uttar Pradesh.
+
+2. Inadequate Sanitation and Solid Waste Management Systems
+Only 68% of municipal waste undergoes scientific processing, with the remainder accumulating in landfills or water bodies
+
+4. Rural Healthcare Accessibility Gaps
+Primary Health Centers (PHCs) face a 32% shortage of medical personnel, with diagnostic equipment absent in 45% of facilities. https://mediaindia.eu/business/budget-2025-a-critical-moment-for-strengthening-indias-education-system/
+
+AI/DataScience and AppDev:
+
+5. Mental Health Service Delivery Deficits
+Despite mental disorders affecting 14% of the population, only 0.05% of the health budget targets psychiatric care4. Stigma prevents 80% of sufferers from seeking treatment, compounded by a shortage of 13,000 clinical psychologists nationwide.
+
+9. Highway Safety and Maintenance Deficiencies (Create an application to report such damaged roads with images to Responsible Authourity of that Road)
+National highways witness 72% of road fatalities, attributed to poor signage, potholes, and stray animals. Despite ₹11.21 lakh crore in FY2025-26 capex allocations1, only 40% of highways meet international safety standards.
+
+11. Archaic Documentation and Border Procedures- An platform can be made to smoothen the border crossing
+Crossing state borders requires 17 separate documents, leading to 6–8 hour delays and ₹3,500 crore in annual bribes3. Digital integration efforts under the National Logistics Policy face implementation hurdles.
+https://truckguru.co.in/blog/transportation-problems/
+
+Creating a platform to resolve all student queries and collect feedback from students (anonymously)
+An hardware enabled solution to track & Tackel stray animals casualites and volunteer support to provide them shelter. 
+
+
+
